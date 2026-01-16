@@ -1,4 +1,3 @@
-# ox1s.github.io
 
 
 [git hub репозитория (ветка feature/identity-api)](https://github.com/ox1s/dotnet-inno-clinic/tree/feature/identity-api)
