@@ -2,6 +2,8 @@
 
 Шпаргалка по тексту. Правильные ответы отмечены галочкой, а ниже дано объяснение, почему именно этот ответ верный.
 
+![Да](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2poeTF5MHd0MTVqaThoeGtheTc0eTU5cXFtbzR0OWxldXZ1M3N2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UiBmJv6Hh6FfW/giphy.gif) 
+
 ---
 
 ## 📝 Part 1: Reading Comprehension
