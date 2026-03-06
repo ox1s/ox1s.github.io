@@ -118,7 +118,3 @@ It means to constantly measure and compare yourself against other people, like h
 * **a trap** - ловушка
 * **an inside job** - внутренняя работа
 * **to grind yourself into dust** - изматывать себя до предела
-
----
-
-Would you like me to create an answer key or sample responses for the 5 discussion questions to help you prepare your thoughts for class?
